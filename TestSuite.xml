@@ -1,0 +1,7 @@
+<suite name="Add New Property">
+    <test name="Test adding a new Property from Extranet">
+        <classes>
+            <class name="addNewPropertyTests.checkPropertyOwnerSignIn"/>
+        </classes>
+    </test>
+</suite>
